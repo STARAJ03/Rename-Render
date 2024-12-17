@@ -2,15 +2,15 @@
     "name": "VJ Renamer Bot",
     "description": "Telegram File Renamer Bot ",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/VJBots/Rename-Render",
+    "repository": "https://github.com/STARAJ03/Rename-Render",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "27765349"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "9df1f705c8047ac0d723b29069a1332b"
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
@@ -19,15 +19,15 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "7835578071:AAHXd98hRHcv61u035-liWKW9jM8v4FiIAs"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split",
-            "value": ""
+            "value": "1116405290"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://allclashwithaj:8LbUD7YVEL96JpOt@cluster0.xmdob.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
